@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-06-11 14:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-31 12:53:57 +0000"
@@ -477,7 +483,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-11 11:55:35 +0000"
+      "tick": "2020-06-11 14:21:57 +0000"
     },
     "done": false
   },

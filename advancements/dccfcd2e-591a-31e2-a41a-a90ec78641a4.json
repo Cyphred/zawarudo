@@ -428,7 +428,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-09 15:37:57 +0000"
+      "tick": "2020-06-11 14:21:57 +0000"
     },
     "done": false
   },
@@ -519,6 +519,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-05-29 14:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-06-11 13:05:24 +0000"
     },
     "done": true
   },
@@ -782,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-06-02 16:31:09 +0000"
@@ -932,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-05-30 11:23:17 +0000"
@@ -947,6 +965,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-05-29 14:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-06-11 14:12:28 +0000"
     },
     "done": true
   },
@@ -1353,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-05-29 14:25:33 +0000"
@@ -1514,6 +1544,7 @@
       "baked_potato": "2020-06-02 15:59:17 +0000",
       "potato": "2020-06-05 15:06:42 +0000",
       "bread": "2020-06-02 15:22:49 +0000",
+      "golden_apple": "2020-06-11 13:59:46 +0000",
       "rotten_flesh": "2020-05-31 12:14:00 +0000",
       "cooked_chicken": "2020-05-29 14:34:55 +0000",
       "carrot": "2020-06-02 15:02:16 +0000"
@@ -1547,6 +1578,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-05-29 14:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
     },
     "done": true
   },
@@ -1974,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-06-05 15:01:32 +0000"
@@ -2043,6 +2086,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-05-29 15:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
     },
     "done": true
   },
@@ -2430,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-05-29 14:49:47 +0000"
@@ -2481,6 +2536,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-06-05 15:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-06-11 13:05:24 +0000"
     },
     "done": true
   },
