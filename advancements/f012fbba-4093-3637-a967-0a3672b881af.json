@@ -1,0 +1,63 @@
+{
+  "main:main/double_shulkers": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/dragon_drops_elytra": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/villager_death": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/larger_phantoms": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/afk": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-05-31 13:47:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-05-31 13:47:41 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
