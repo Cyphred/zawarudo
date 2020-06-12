@@ -495,7 +495,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-12 11:17:02 +0000"
+      "tick": "2020-06-12 13:53:32 +0000"
     },
     "done": false
   },
@@ -1031,6 +1031,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-05-31 10:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-06-12 12:35:09 +0000"
     },
     "done": true
   },

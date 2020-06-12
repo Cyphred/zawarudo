@@ -391,6 +391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-06-12 11:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-06-06 10:28:18 +0000"
@@ -447,7 +453,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-12 11:06:24 +0000"
+      "tick": "2020-06-12 11:47:17 +0000"
     },
     "done": false
   },
