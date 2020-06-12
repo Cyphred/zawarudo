@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-06-12 07:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-05-29 07:04:32 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-05-31 14:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2020-06-12 07:29:39 +0000"
     },
     "done": true
   },
@@ -543,7 +555,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-11 14:21:57 +0000"
+      "tick": "2020-06-12 06:57:38 +0000"
     },
     "done": false
   },
@@ -1907,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-06-12 07:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-05-29 08:01:05 +0000"
@@ -2764,9 +2782,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
     "criteria": {
-      "has_dye": "2020-06-02 15:53:41 +0000"
+      "has_dye": "2020-06-02 15:53:41 +0000",
+      "has_block": "2020-06-12 07:29:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -2813,6 +2832,12 @@
   "main:main/multiplayer_sleep": {
     "criteria": {
       "tick": "2020-05-29 06:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-06-12 07:20:54 +0000"
     },
     "done": true
   },
@@ -3527,6 +3552,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-05-31 13:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-06-12 07:20:54 +0000"
     },
     "done": true
   },
