@@ -561,7 +561,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-12 13:53:32 +0000"
+      "tick": "2020-06-15 15:01:21 +0000"
     },
     "done": false
   },
@@ -805,6 +805,7 @@
       "minecraft:spider": "2020-05-29 07:39:12 +0000",
       "minecraft:creeper": "2020-05-29 07:08:05 +0000",
       "minecraft:evoker": "2020-06-08 05:40:47 +0000",
+      "minecraft:phantom": "2020-06-15 08:05:04 +0000",
       "minecraft:witch": "2020-06-04 15:15:35 +0000",
       "minecraft:wither_skeleton": "2020-05-31 13:10:29 +0000",
       "minecraft:cave_spider": "2020-05-29 08:25:21 +0000",
@@ -1249,6 +1250,12 @@
     },
     "done": true
   },
+  "cvt_chestboat:packicon": {
+    "criteria": {
+      "trigger": "2020-06-15 05:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2020-05-31 06:46:08 +0000"
@@ -1576,6 +1583,7 @@
       "minecraft:river": "2020-05-29 07:24:16 +0000",
       "minecraft:lukewarm_ocean": "2020-05-29 10:19:00 +0000",
       "minecraft:birch_forest_hills": "2020-05-31 06:25:22 +0000",
+      "minecraft:wooded_mountains": "2020-06-14 12:00:50 +0000",
       "minecraft:wooded_hills": "2020-05-31 06:46:09 +0000",
       "minecraft:stone_shore": "2020-05-31 05:57:22 +0000",
       "minecraft:swamp": "2020-05-31 06:11:31 +0000",
@@ -1715,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-06-15 05:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-05-31 14:16:39 +0000"
@@ -1727,9 +1741,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-06-14 08:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-06-01 14:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-06-14 08:51:28 +0000"
     },
     "done": true
   },
@@ -1790,6 +1816,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-05-29 10:10:04 +0000"
+    },
+    "done": true
+  },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2020-06-15 05:46:55 +0000"
     },
     "done": true
   },
@@ -2102,6 +2134,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2020-05-31 15:19:09 +0000"
+    },
+    "done": true
+  },
+  "global:civetkitty": {
+    "criteria": {
+      "trigger": "2020-06-15 05:39:15 +0000"
     },
     "done": true
   },
@@ -2507,6 +2545,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2020-06-15 14:46:56 +0000",
       "minecraft:pig": "2020-05-31 03:55:19 +0000",
       "minecraft:turtle": "2020-06-04 11:15:36 +0000",
       "minecraft:sheep": "2020-06-01 14:58:45 +0000",
@@ -2961,6 +3000,12 @@
     },
     "done": true
   },
+  "global:root": {
+    "criteria": {
+      "trigger": "2020-06-15 05:39:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-06-02 14:52:35 +0000"
@@ -3108,6 +3153,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-05-29 08:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-06-14 08:51:28 +0000"
     },
     "done": true
   },
@@ -3695,7 +3746,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/ragdoll.png": "2020-06-03 12:27:28 +0000"
+      "textures/entity/cat/jellie.png": "2020-06-15 14:46:00 +0000",
+      "textures/entity/cat/ragdoll.png": "2020-06-03 12:27:28 +0000",
+      "textures/entity/cat/red.png": "2020-06-15 14:46:32 +0000",
+      "textures/entity/cat/calico.png": "2020-06-15 14:46:47 +0000"
     },
     "done": false
   },
