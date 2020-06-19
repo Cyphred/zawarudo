@@ -483,7 +483,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-15 06:45:46 +0000"
+      "tick": "2020-06-16 10:12:03 +0000"
     },
     "done": false
   },
@@ -1493,6 +1493,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2020-06-06 14:32:00 +0000"
+    },
+    "done": true
+  },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2020-06-16 09:27:35 +0000"
     },
     "done": true
   },

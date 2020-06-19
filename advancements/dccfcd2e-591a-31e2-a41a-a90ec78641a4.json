@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-06-17 12:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-30 11:23:17 +0000"
@@ -446,7 +452,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-14 18:34:20 +0000"
+      "tick": "2020-06-17 12:37:17 +0000"
     },
     "done": false
   },
@@ -858,6 +864,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-05-29 14:25:33 +0000"
+    },
+    "done": true
+  },
+  "cvt_chestboat:packicon": {
+    "criteria": {
+      "trigger": "2020-06-17 12:17:59 +0000"
     },
     "done": true
   },
@@ -1404,6 +1416,12 @@
     },
     "done": true
   },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-06-17 12:34:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2020-06-09 15:31:11 +0000"
@@ -1479,6 +1497,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2020-05-30 12:04:24 +0000"
+    },
+    "done": true
+  },
+  "global:civetkitty": {
+    "criteria": {
+      "trigger": "2020-06-17 12:17:59 +0000"
     },
     "done": true
   },
@@ -2132,6 +2156,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-05-29 14:22:20 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2020-06-17 12:17:59 +0000"
     },
     "done": true
   },
