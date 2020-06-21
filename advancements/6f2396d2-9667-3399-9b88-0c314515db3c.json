@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-05-29 08:10:10 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-06-20 09:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-05-29 07:00:34 +0000"
@@ -329,6 +341,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2020-06-20 08:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2020-06-12 07:29:39 +0000"
@@ -401,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-05-29 10:19:27 +0000"
@@ -462,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-05-29 08:38:18 +0000"
@@ -483,6 +519,18 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-29 08:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-06-20 10:33:18 +0000"
     },
     "done": true
   },
@@ -564,6 +612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-30 11:58:19 +0000"
@@ -591,7 +645,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-18 08:58:13 +0000"
+      "tick": "2020-06-21 10:27:48 +0000"
     },
     "done": false
   },
@@ -885,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-06-20 10:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-05-29 10:42:42 +0000"
@@ -1017,6 +1077,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-06-20 10:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2020-05-31 04:29:29 +0000"
@@ -1050,6 +1122,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-05-29 07:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-06-20 09:07:59 +0000"
     },
     "done": true
   },
@@ -1186,6 +1264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-05-31 13:38:17 +0000"
@@ -1273,6 +1357,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-05-29 14:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-06-20 10:33:18 +0000"
     },
     "done": true
   },
@@ -1588,6 +1678,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-05-29 08:33:47 +0000"
@@ -1624,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-05-31 04:11:07 +0000"
@@ -1641,6 +1743,7 @@
       "minecraft:deep_cold_ocean": "2020-05-29 09:04:50 +0000",
       "minecraft:snowy_tundra": "2020-05-29 06:54:52 +0000",
       "minecraft:taiga_hills": "2020-05-29 10:23:30 +0000",
+      "minecraft:desert": "2020-06-20 08:54:06 +0000",
       "minecraft:frozen_river": "2020-05-29 07:31:51 +0000",
       "minecraft:deep_frozen_ocean": "2020-06-01 04:28:27 +0000",
       "minecraft:jungle": "2020-06-17 14:08:36 +0000",
@@ -1649,6 +1752,7 @@
       "minecraft:snowy_beach": "2020-05-29 08:58:07 +0000",
       "minecraft:warm_ocean": "2020-05-29 10:18:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-05-29 09:42:14 +0000",
+      "minecraft:badlands": "2020-06-20 08:53:47 +0000",
       "minecraft:beach": "2020-05-29 09:48:19 +0000",
       "minecraft:dark_forest": "2020-05-31 06:38:31 +0000",
       "minecraft:river": "2020-05-29 07:24:16 +0000",
@@ -1657,6 +1761,7 @@
       "minecraft:wooded_mountains": "2020-06-14 12:00:50 +0000",
       "minecraft:wooded_hills": "2020-05-31 06:46:09 +0000",
       "minecraft:stone_shore": "2020-05-31 05:57:22 +0000",
+      "minecraft:wooded_badlands_plateau": "2020-06-20 08:59:54 +0000",
       "minecraft:swamp": "2020-05-31 06:11:31 +0000",
       "minecraft:plains": "2020-05-29 15:09:25 +0000"
     },
@@ -1788,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-06-21 10:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2020-05-30 10:47:04 +0000"
@@ -1863,6 +1974,18 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-05-29 08:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2020-06-20 10:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-06-20 10:32:14 +0000"
     },
     "done": true
   },
@@ -1980,9 +2103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2020-05-31 04:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
     },
     "done": true
   },
@@ -2029,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-05-29 08:01:05 +0000"
@@ -2044,6 +2185,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2020-05-29 07:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
     },
     "done": true
   },
@@ -2424,6 +2571,7 @@
     "criteria": {
       "cooked_porkchop": "2020-05-29 10:55:07 +0000",
       "chicken": "2020-06-01 12:42:08 +0000",
+      "honey_bottle": "2020-06-21 10:32:20 +0000",
       "cooked_mutton": "2020-05-29 15:54:34 +0000",
       "sweet_berries": "2020-05-29 10:29:10 +0000",
       "cooked_beef": "2020-05-30 11:20:10 +0000",
@@ -2447,6 +2595,12 @@
       "carrot": "2020-05-29 10:06:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -2586,6 +2740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "equestrian_crafting:recipes/combat/golden_horse_armor": {
     "criteria": {
       "has_ingot": "2020-06-03 05:18:42 +0000"
@@ -2667,6 +2827,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-06-01 14:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
     },
     "done": true
   },
@@ -2768,6 +2934,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-06-02 09:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-06-20 09:28:52 +0000"
     },
     "done": true
   },
@@ -2882,6 +3054,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2020-05-29 08:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
     },
     "done": true
   },
@@ -3003,6 +3181,18 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-30 11:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-06-20 09:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-06-20 08:56:07 +0000"
     },
     "done": true
   },
@@ -3223,6 +3413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-06-21 10:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-05-29 07:00:34 +0000"
@@ -3373,6 +3569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-05-31 13:21:14 +0000"
@@ -3406,6 +3608,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-06-01 11:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
     },
     "done": true
   },
@@ -3493,6 +3701,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-06-20 09:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-05-29 08:24:13 +0000"
@@ -3511,6 +3731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-05-31 13:38:17 +0000"
@@ -3526,6 +3752,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-05-29 10:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-06-20 10:31:07 +0000"
     },
     "done": true
   },
@@ -3556,6 +3788,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-05-29 09:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-06-20 09:06:20 +0000"
     },
     "done": true
   },
@@ -3868,6 +4106,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2020-06-12 07:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2020-06-20 08:48:42 +0000"
     },
     "done": true
   },

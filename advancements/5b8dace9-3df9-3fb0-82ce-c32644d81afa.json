@@ -288,6 +288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-05-29 07:46:12 +0000"
@@ -375,6 +381,12 @@
   "main:main/root": {
     "criteria": {
       "tick": "2020-05-29 06:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
     },
     "done": true
   },
@@ -585,7 +597,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-19 10:03:44 +0000"
+      "tick": "2020-06-21 08:50:09 +0000"
     },
     "done": false
   },
@@ -824,12 +836,14 @@
       "minecraft:blaze": "2020-06-01 15:03:24 +0000",
       "minecraft:skeleton": "2020-05-29 08:35:05 +0000",
       "minecraft:zombie_pigman": "2020-06-02 13:13:29 +0000",
+      "minecraft:ravager": "2020-06-21 05:58:01 +0000",
       "minecraft:ghast": "2020-06-01 15:02:46 +0000",
       "minecraft:guardian": "2020-05-31 07:31:30 +0000",
       "minecraft:vindicator": "2020-06-08 05:37:36 +0000",
       "minecraft:magma_cube": "2020-06-02 16:43:28 +0000",
       "minecraft:spider": "2020-05-29 08:22:05 +0000",
       "minecraft:creeper": "2020-05-29 08:17:57 +0000",
+      "minecraft:evoker": "2020-06-21 05:55:43 +0000",
       "minecraft:phantom": "2020-05-31 15:15:55 +0000",
       "minecraft:witch": "2020-05-31 06:14:54 +0000",
       "minecraft:wither_skeleton": "2020-06-01 15:03:09 +0000",
@@ -1503,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-06-21 06:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-29 06:47:35 +0000"
@@ -1671,6 +1691,7 @@
       "minecraft:deep_cold_ocean": "2020-05-29 09:04:49 +0000",
       "minecraft:snowy_tundra": "2020-05-29 06:35:05 +0000",
       "minecraft:taiga_hills": "2020-05-29 10:25:04 +0000",
+      "minecraft:desert": "2020-06-20 08:57:21 +0000",
       "minecraft:frozen_river": "2020-05-29 06:54:46 +0000",
       "minecraft:jungle": "2020-06-16 10:01:59 +0000",
       "minecraft:birch_forest": "2020-05-31 06:26:44 +0000",
@@ -1678,6 +1699,7 @@
       "minecraft:snowy_beach": "2020-05-29 08:58:02 +0000",
       "minecraft:warm_ocean": "2020-05-29 10:18:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-05-29 09:42:11 +0000",
+      "minecraft:badlands": "2020-06-20 08:55:43 +0000",
       "minecraft:beach": "2020-05-29 09:48:32 +0000",
       "minecraft:dark_forest": "2020-05-31 06:18:47 +0000",
       "minecraft:river": "2020-05-29 07:28:57 +0000",
@@ -1686,6 +1708,7 @@
       "minecraft:wooded_mountains": "2020-06-02 07:59:32 +0000",
       "minecraft:wooded_hills": "2020-05-31 06:46:19 +0000",
       "minecraft:stone_shore": "2020-05-31 05:56:54 +0000",
+      "minecraft:wooded_badlands_plateau": "2020-06-20 08:59:55 +0000",
       "minecraft:swamp": "2020-05-31 06:11:28 +0000",
       "minecraft:plains": "2020-05-29 15:09:20 +0000"
     },
@@ -1700,6 +1723,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
     },
     "done": true
   },
@@ -2188,6 +2217,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-05-29 08:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
     },
     "done": true
   },
@@ -2751,6 +2786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-06-21 05:36:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-05-29 06:47:03 +0000"
@@ -3011,9 +3052,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
     "criteria": {
-      "has_dye": "2020-06-07 05:24:02 +0000"
+      "has_dye": "2020-06-07 05:24:02 +0000",
+      "has_block": "2020-06-21 05:36:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -3832,6 +3874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2020-06-15 09:31:34 +0000"
@@ -3956,6 +4004,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-06-18 11:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-06-21 07:08:24 +0000"
     },
     "done": true
   },
