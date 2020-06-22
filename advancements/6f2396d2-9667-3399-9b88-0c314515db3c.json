@@ -645,7 +645,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2020-06-21 10:27:48 +0000"
+      "tick": "2020-06-21 13:27:31 +0000"
     },
     "done": false
   },
@@ -4271,6 +4271,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-05-31 14:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2020-06-21 13:26:49 +0000"
     },
     "done": true
   },
